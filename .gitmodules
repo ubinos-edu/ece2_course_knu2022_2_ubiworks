@@ -2,3 +2,6 @@
 	path = library/ubinos
 	url = https://github.com/ubinos/ubinos.git
 	branch = master
+[submodule "library/ece2_course_resources"]
+	path = library/ece2_course_resources
+	url = git@github.com:ubinos-edu/ece2_course_resources.git
